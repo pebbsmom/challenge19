@@ -35,9 +35,9 @@ https://github.com/user-attachments/assets/e3c3a820-4841-4d3f-af99-b94ee831d228
 ## License
 This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
-I owe many thanks to the following tutors for their assistance: Juno Nguyen.   Additionally, thanks to Dan M. for his assistance. Copilot was used for code suggestions and debugging.
+I owe many thanks to the following tutor for their assistance: Juno Nguyen.   Additionally, thanks to Dan M. for his assistance. Copilot was used for code suggestions and debugging.
 ## Tests
-In order to test the application, run the application and make sure component and e2e tests are passed.
+In order to test the application, run the application and make sure component and e2e tests pass.
 ## Questions
 To reach me with additional questions please contact me at:
 perezteri@hotmail.com  
