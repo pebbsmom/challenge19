@@ -15,14 +15,11 @@ GitHub Link https://github.com/pebbsmom/challenge19
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Build the application using 'npm run build'  4) Start the app by running 'npm run start:dev' 5) Open a new terminal and run "npm run test" to run the Cypress testing.
 ## Usage
  
-
-Walkthrough Video 
-
-
-
  
 
-https://github.com/user-attachments/assets/e3c3a820-4841-4d3f-af99-b94ee831d228
+
+https://github.com/user-attachments/assets/78e5e580-982a-44b9-abe1-205c13669496
+
 
 
  
